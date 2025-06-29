@@ -29,7 +29,7 @@ The dashboard provides answers to the following business analysis questions:
 - Negative correlation (-0.155) between discount and rating.
 
 ## Structure
-- `dashboard/`: Dashboard image
+- [`dashboard/`](https://github.com/kimizzy001/Amazon-sales-dashboard-/blob/main/9310e80e-1302-42ba-b26e-1133cd635271.jpeg): Dashboard image
 - `data/`: Raw dataset (CSV)
 - `analysis/`: Answer breakdown of all questions
 - `excel/`: Source Excel file with pivot tables
