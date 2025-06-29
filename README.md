@@ -39,3 +39,10 @@ The dashboard provides answers to the following business analysis questions:
 - Excel (Pivot Tables, Charts)
 - Data Visualization
 - Markdown for documentation
+  
+## Recommendations
+
+- Promote top-reviewed products with high ratings.
+- Reassess pricing strategies in categories with high discounts but low ratings.
+- Use review count and rating data to identify potential bestsellers.
+- Avoid over-discounting lower-rated items—it may reduce perceived value.
