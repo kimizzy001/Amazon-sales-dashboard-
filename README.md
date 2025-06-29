@@ -4,7 +4,7 @@ This project visualizes key insights from an Amazon product dataset using a cust
 
 ## Dashboard Overview
 
-
+![image](https://github.com/kimizzy001/Amazon-sales-dashboard-/blob/main/9310e80e-1302-42ba-b26e-1133cd635271.jpeg)
 
 The dashboard provides answers to the following business analysis questions:
 1. Average discount by product category
