@@ -2,6 +2,8 @@
 
 This project visualizes key insights from an Amazon product dataset using a custom dashboard.
 
+---
+
 ## Dashboard Overview
 
 ![image](https://github.com/kimizzy001/Amazon-sales-dashboard-/blob/main/9310e80e-1302-42ba-b26e-1133cd635271.jpeg)
@@ -22,22 +24,30 @@ The dashboard provides answers to the following business analysis questions:
 13. Highest discount categories
 14. Top 5 products by rating & review count
 
+---
+
 ## Insights
 - Computers & Accessories category shows the highest average discount.
 - Amazon Basics High-Speed HDMI Cable has the most reviews (853,946).
 - No products have a discount over 50%.
 - Negative correlation (-0.155) between discount and rating.
 
+---
+
 ## Structure
 - [`dashboard/`](https://github.com/kimizzy001/Amazon-sales-dashboard-/blob/main/9310e80e-1302-42ba-b26e-1133cd635271.jpeg): Dashboard image
 - [`data/`](https://github.com/kimizzy001/Amazon-sales-dashboard-/blob/main/Amazon%20case%20study.xlsx): Raw dataset (CSV)
 - `excel/`: Source Excel file with answer to all questions using pivot tables
 
+---
+
 ## Tools Used
 - Excel (Pivot Tables, Charts)
 - Data Visualization
 - Markdown for documentation
-  
+
+---
+
 ## Recommendations
 
 - Promote top-reviewed products with high ratings.
