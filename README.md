@@ -35,7 +35,7 @@ The dashboard provides answers to the following business analysis questions:
 - `excel/`: Source Excel file with pivot tables
 - `insights/`: Highlighted insights like top 5 products
 
-## 🔧 Tools Used
+## Tools Used
 - Excel (Pivot Tables, Charts)
 - Data Visualization
 - Markdown for documentation
