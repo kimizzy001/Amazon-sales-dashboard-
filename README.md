@@ -30,7 +30,7 @@ The dashboard provides answers to the following business analysis questions:
 
 ## Structure
 - [`dashboard/`](https://github.com/kimizzy001/Amazon-sales-dashboard-/blob/main/9310e80e-1302-42ba-b26e-1133cd635271.jpeg): Dashboard image
-- `data/`: Raw dataset (CSV)
+- [`data/`](https://github.com/kimizzy001/Amazon-sales-dashboard-/blob/main/Amazon%20case%20study.xlsx): Raw dataset (CSV)
 - `analysis/`: Answer breakdown of all questions
 - `excel/`: Source Excel file with pivot tables
 - `insights/`: Highlighted insights like top 5 products
